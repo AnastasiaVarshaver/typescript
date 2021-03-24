@@ -1,0 +1,16 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "training_session",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anastasia Varshaver",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35"
+  }
+}
